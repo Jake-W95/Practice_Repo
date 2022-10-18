@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+header,
+footer {
+    width: 100%;
+    height: 120px;
+    background-color: blanchedalmond;
+    color: black;
+}
+main {
+    width: 100%;
+    background-color: darkgray;}
+h1 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: large;
+    
+}
+h2 {
+    text-align: center;
+    font-stretch: extra-expanded;
+    font-size: medium;
+}
+.image1 {
+    display: block;
+    height: 300px;
+    width: 300px;
+    margin: 5px;
+}
+.image2 {
+    display: block;
+    height: 500px;
+    width: 500px;
+}
+.card1 {
+
+
+}
